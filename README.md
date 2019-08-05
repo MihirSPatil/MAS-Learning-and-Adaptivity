@@ -1,1 +1,2 @@
-# MAS-Learning-and-Adaptivity
+# LA_Assignments
+MAS Learning and adaptivity 
